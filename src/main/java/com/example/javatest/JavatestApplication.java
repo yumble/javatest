@@ -8,7 +8,7 @@ public class JavatestApplication {
 
     public static void main(String[] args) throws IOException {
         //SpringApplication.run(JavatestApplication.class, args);
-        Problem10 problem = new Problem10();
+        Problem11 problem = new Problem11();
         problem.solve();
     }
 
